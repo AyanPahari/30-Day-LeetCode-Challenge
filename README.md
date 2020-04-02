@@ -1,2 +1,2 @@
 # 30-Day-LeetCode-Challenge
-Solutions to all the Problems 
+I'll be uploading solutions to all the problems in C++.
